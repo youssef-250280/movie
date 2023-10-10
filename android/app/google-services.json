@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "668730163205",
+    "project_id": "miraculous-myths",
+    "storage_bucket": "miraculous-myths.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668730163205:android:6a75565d2db120d1641c6c",
+        "android_client_info": {
+          "package_name": "com.example.miraculous_myths_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668730163205-d3dp79i4bohkfpuep8qv8eanb0p66tgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG2h8EdPftEb03L0RsgK4aW9EExK9YaYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668730163205-d3dp79i4bohkfpuep8qv8eanb0p66tgn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "668730163205-fn383sh459gvrlsk73hl83nqubg7r20m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.miraculousMyths"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668730163205:android:02526560665b0cdf641c6c",
+        "android_client_info": {
+          "package_name": "com.miraculous_myths"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668730163205-d3dp79i4bohkfpuep8qv8eanb0p66tgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG2h8EdPftEb03L0RsgK4aW9EExK9YaYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668730163205-d3dp79i4bohkfpuep8qv8eanb0p66tgn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "668730163205-fn383sh459gvrlsk73hl83nqubg7r20m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.miraculousMyths"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
